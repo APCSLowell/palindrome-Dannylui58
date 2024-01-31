@@ -72,4 +72,5 @@ public String noSpaces(String sWord){
 public String noCapitals(String sWord){
   return (sWord.toLowerCase());
 }
+}
 
