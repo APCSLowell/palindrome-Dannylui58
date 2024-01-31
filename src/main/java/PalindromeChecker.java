@@ -51,7 +51,6 @@ public String reverse(String str)
   }
   return s;
 }
-}
 public String onlyLetters(String sString){
   String count = "";
   for (int i = 0; i < sString.length();i++){
